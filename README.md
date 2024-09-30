@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an electronics engineer with a robust background in product design and manufacturing. With hands-on experience overseeing the production of thousands of devices, I possess a keen understanding of the intricacies involved in creating innovative products. My expertise extends to antenna optimization, rigorous product testing, and navigating the complexities of mechanical engineering.
+I am an electronics engineer with a robust background in product design and manufacturing. With hands-on experience overseeing the production of thousands of devices, I possess a keen understanding of the intricacies involved in creating innovative products. My expertise extends to antenna optimization, rigorous product testing, and navigating the complexities of mechanical engineering. Along with going through certifications like FCC, CE and really complex ones like IECEx intrinsic safety.
 
 In addition to my proficiency in electronics, I bring a wealth of knowledge in various production techniques and prototyping methodologies. I'm dedicated to craft high-quality and reliable products.
 
